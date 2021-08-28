@@ -1,5 +1,5 @@
-# infinite-bounce
-A little program of a bounting ball apliying momentum
+# Bouncing ball
+A little program of a bouncing ball apliying momentum, all code made by Santiago De Andrade 08/2021
 
 Instalation :
 
