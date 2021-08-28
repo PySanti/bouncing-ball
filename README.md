@@ -3,7 +3,7 @@ A little program of a bouncing ball apliying momentum, all code made by Santiago
 
 Instalation :
 
-    git clone https://github.com/PySanti/infinite-bounce
+    git clone https://github.com/PySanti/bouncing-ball
     
 Play : put in your terminal
 
